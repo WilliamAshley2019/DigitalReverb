@@ -4,3 +4,5 @@ bugs are likely to still exist.
 
 Built in JUCE 8.0.12  add DSP module to audio basics.
 Compiled through Visual Studio 2026. 
+
+Tested on Windows 11 25h2 in FL Studio 2025.2.3
